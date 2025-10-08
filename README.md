@@ -1,4 +1,4 @@
-![WELLCOME](Shaban/wellcome.svg)
+![WELLCOME](manyce md/wellcome.svg)
   
 ______
 
@@ -6,8 +6,8 @@ ______
 ___ 
 
 <p align="center">
-  <a href="https://github.com/MRSHABAN45" target="_blank">
-    <img src="./Shaban/dev-gold-mini.svg" width="300" alt="Developer — MR SHABAN (Gold 3D)">
+  <a href="https://github.com/MR manyce45" target="_blank">
+    <img src="./Shaban/dev-gold-mini.svg" width="300" alt="Developer — MR manyce (Gold 3D)">
   </a>
 </p>
 
@@ -21,8 +21,8 @@ ___
 ---------
 
 <p align="center">
-<a href="https://github.com/MRSHABAN45/SHABAN-MD"><img title="PUBLIC-BOT" src="https://img.shields.io/static/v1?label=Language&message=JavaScript&style=square&color=darkpink"></a> &nbsp;
-  <img src="https://komarev.com/ghpvc/?username=SHABAN-MD&label=VIEWS&style=square&color=blue" />
+<a href="https://github.com/Mr manyce45/manyce-MD"><img title="PUBLIC-BOT" src="https://img.shields.io/static/v1?label=Language&message=JavaScript&style=square&color=darkpink"></a> &nbsp;
+  <img src="https://komarev.com/ghpvc/?username=manyce-MD&label=VIEWS&style=square&color=blue" />
 </p>
 
 
@@ -32,10 +32,10 @@ ___
 <img src="Shaban/feature-bot.svg" alt="Feature Bot" width="900"/>
 
 <p align="center">
-<img src="Shaban/beta-v5.svg" alt="BETA-V5" width="100"/>
+<img src="manyce/beta-v5.svg" alt="BETA-V5" width="100"/>
   
 <p align="center">
-<img src="Shaban/license.svg" alt="License" width="200"/>
+<img src="manyce/license.svg" alt="License" width="200"/>
 
 --------------
 
@@ -52,7 +52,7 @@ ___
 
 <p align="center">
   <a href="https://smd-pair.zone.id/" target="_blank">
-    <img src="./Shaban/paircode-link.svg" width="195" alt="PAIR_CODE – Device Session ID">
+    <img src=".manyce/paircode-link.svg" width="195" alt="PAIR_CODE – Device Session ID">
   </a>
 </p>
 
